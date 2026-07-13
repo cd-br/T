@@ -1,2 +1,2 @@
 # T
-Ferramentas simplificadas para trabalhos diversos
+Ferramenta simplificada para trabalhos diversos.
